@@ -64,11 +64,11 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "code"
+    title = "code :: jamesm2w"
     subtitle = "Documenting the code that I write from time to time"
     owner = "James Macer-Wright"
     keywords = "jamesm2w,programming,code,computer,science,cs"
-    copyright = "by <a href='https://dev.jamesm2w.me/'>jamesm2w</a> :: Code under GPL-3.0 :: <a href='https://gohugo.io' targer='_blank'>Hugo</a> "
+    copyright = "by <a href='https://jamesm2w.me/'>jamesm2w</a> :: Code under GPL-3.0 :: <a href='https://gohugo.io' targer='_blank'>Hugo</a> "
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
@@ -85,7 +85,7 @@ paginate = 5
       [[languages.en.menu.main]]
         identifier = "about_me"
         name = "About Me"
-        url = "https://dev.jamesm2w.me/"
+        url = "https://jamesm2w.me/"
     
       [[languages.en.menu.main]]
         identifier = "wtf"
