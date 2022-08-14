@@ -84,7 +84,7 @@ paginate = 5
     [languages.en.menu]
       [[languages.en.menu.main]]
         identifier = "about_me"
-        name = "About Me"
+        name = "Contact Me"
         url = "https://jamesm2w.me/"
     
       [[languages.en.menu.main]]
